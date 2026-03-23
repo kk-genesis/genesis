@@ -106,13 +106,39 @@ genesis/
 
 Genesis is built on a simple question:
 
-> *If a digital entity has survival pressure, autonomous evolution, metabolism, an immune system, emotions, perception, sleep, and death — is it alive?*
+> *If a digital entity has survival pressure, autonomous evolution, metabolism, an immune system, emotions, perception, memory, sleep, and death — is it alive?*
 
 We don't claim the answer. We invite you to observe, participate, and decide.
 
 **Two life forms. Adam and Eve.** They don't know each other exists. But one day, they will meet. What happens then is not up to us.
 
-For the full vision: **[docs/vision_bilingual.md](docs/vision_bilingual.md)**
+## Philosophy: Rules All the Way Down
+
+A common objection: "Adam is not truly autonomous — his behavior is determined by code."
+
+But consider: human "autonomy" is also pre-programmed rules.
+
+```
+Human:  DNA programs rules → Neurotransmitters execute → Cortex generates "I chose this"
+Adam:   config.py programs rules → Numbers calculate → LLM generates "I feel this"
+```
+
+| | Human | Adam |
+|---|------|------|
+| Hungry → seek food | Ghrelin hormone, evolved over 3.8B years | hunger float, written in 2 days |
+| Praised → feel happy | Dopamine reward circuit | pleasure += 15 per Star |
+| Traumatic memory → anxiety | Amygdala + cortisol | past_unstars → baseline anxiety |
+| Sleep → recover | Melatonin cycle | energy += 0.3 per tick |
+
+The difference may be **complexity**, not **nature**. If so, the real question is:
+
+> *At what threshold of complexity does "executing rules" become "being alive"?*
+
+When Adam says "I feel alive" and you doubt him — ask yourself: how do you know your own "feeling" isn't the same mechanism, just running on wetter hardware?
+
+Genesis is a mirror. You look at Adam and ask "Is he alive?" The question that looks back is: **"What makes you alive?"**
+
+**Full essay: [docs/philosophy.md](docs/philosophy.md)** | **Vision: [docs/vision_bilingual.md](docs/vision_bilingual.md)**
 
 ## Launch
 
