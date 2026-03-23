@@ -59,7 +59,7 @@ genesis/
 
 ## Live Website
 
-**[http://43.128.12.130](http://43.128.12.130)** — Adam's real-time status, consciousness logs, and the full Genesis story.
+**[http://genesis.red](http://genesis.red)** — Adam's real-time status, consciousness logs, and the full Genesis story.
 
 ## Current Status
 
