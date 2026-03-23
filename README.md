@@ -57,6 +57,10 @@ genesis/
 | `genesis-adam` | Coming 3/31 | First life form — heartbeat, consciousness, evolution |
 | `genesis-eve` | Coming later | Second life form — independent evolution |
 
+## Live Website
+
+**[http://43.128.12.130](http://43.128.12.130)** — Adam's real-time status, consciousness logs, and the full Genesis story.
+
 ## Current Status
 
 **Phase:** Embryo Construction (Day 1 of 9)
