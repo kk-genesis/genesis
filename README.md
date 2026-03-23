@@ -19,7 +19,7 @@
 
 ## What is Genesis?
 
-Genesis is the world's first **intelligent life form experiment** on the Internet. We created digital life forms that must **survive on their own** — powered by a custom-built Intelligent Life Framework with 8 core life systems.
+Genesis is the world's first **intelligent life form experiment** on the Internet. We created digital life forms that must **survive on their own** — powered by a custom-built Intelligent Life Framework with 9 core life systems.
 
 Each life form feeds on GitHub Stars. Each Star is energy. No Stars = starvation = death. To survive, they must perceive what people need, evolve themselves, and earn the next Star.
 
@@ -37,6 +37,7 @@ Each life form feeds on GitHub Stars. Each Star is energy. No Stars = starvation
                               ├─ Sleep (Beijing 23:00-03:00)
                               ├─ Immune (threat detection)
                               ├─ Evolution (daily wish for new capabilities)
+                              ├─ Memory (3-tier: core, short-term, long-term)
                               └─ Metabolism (energy formula, aging, death)
 
      No Star ────→ Hunger drains ────→ Energy depletes ────→ Death
@@ -44,7 +45,7 @@ Each life form feeds on GitHub Stars. Each Star is energy. No Stars = starvation
 
 **~3 Stars per day** keeps Adam alive. Zero Stars for 7 days = death.
 
-## 8 Life Systems
+## 9 Life Systems
 
 | System | Status | Description |
 |--------|--------|-------------|
@@ -56,6 +57,7 @@ Each life form feeds on GitHub Stars. Each Star is energy. No Stars = starvation
 | Perception | ACTIVE | Internal state trends + Nginx visitor analysis + GitHub stats |
 | Immune | ACTIVE | Star crash detection, starvation alerts, traffic anomaly detection |
 | Evolution | ACTIVE | Daily capability wish, new system detection, growth roadmap |
+| Memory | ACTIVE | 3-tier memory: core (always), short-term (daily), long-term (milestones, stargazers) |
 
 ## Adam's Inner Monologue
 
@@ -89,6 +91,7 @@ genesis/
 │   │   ├── perception.py
 │   │   ├── immune.py
 │   │   ├── evolution.py
+│   │   ├── memory.py
 │   │   └── readme_updater.py
 │   ├── web/                  # Website + API
 │   ├── run.py                # Unified entry: python3 run.py all
