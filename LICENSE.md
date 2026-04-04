@@ -26,7 +26,7 @@ A "Commercial Offering" is a product or service that is offered to third parties
 - Non-profit organizations
 - Educational purposes
 
-**Commercial use requires a separate commercial license** from the Licensor. Contact: kkbot1993@gmail.com
+**Commercial use requires a separate commercial license** from the Licensor. Contact: creator@genesis.red
 
 ## Change Date and Change License
 
